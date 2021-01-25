@@ -23,5 +23,8 @@ installed:
 - mtr
 - tcpdump
 - lshw
+- nmap
+
+Example : traceroute -p port host.localhost.local
 
 Please see the Dockerfile for a complete list of tools.
