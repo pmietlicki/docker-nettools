@@ -22,4 +22,5 @@ RUN	apk add --update \
 		mtr \
 		tcpdump \
 		lshw \
+		nmap \
 		busybox-extras
