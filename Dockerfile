@@ -23,4 +23,5 @@ RUN	apk add --update \
 		tcpdump \
 		lshw \
 		nmap \
+		rsync \
 		busybox-extras
